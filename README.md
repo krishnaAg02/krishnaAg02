@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Krishna!
 
-🎓 **Pre-final year student at MITS Gwalior**  
+🎓 **Final year student at MITS Gwalior**  
 🚀 Passionate about building impactful apps and exploring new tech
 
 ---
