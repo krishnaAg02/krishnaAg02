@@ -36,7 +36,7 @@ Hi, I'm Krishna, a pre-final year student at MITS Gwalior. I enjoy turning ideas
 - ✏️ Sketching
 - 💹 Exploring finance & markets
 - 🏸 Playing badminton
-
+-    Playing TableTennis
 ---
 
 ## 📚 Currently Learning & Focusing On
