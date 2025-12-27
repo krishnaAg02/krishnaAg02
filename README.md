@@ -46,11 +46,4 @@ Hi, I'm Krishna, final year student at MITS Gwalior. I enjoy turning ideas into 
 - Scalable consumer service platforms
 
 ---
-
-## 📊 GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnaAg02&show_icons=true&theme=radical)
-
----
-
 Let's connect and build something amazing together!
