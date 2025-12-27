@@ -27,7 +27,7 @@
 
 ## 📝 About Me
 
-Hi, I'm Krishna, a pre-final year student at MITS Gwalior. I enjoy turning ideas into reality through code, with a special interest in building impactful Android apps. From real-time bus tracking solutions to consumer service platforms and fun match games, I love solving real-world problems and exploring new technologies like Kotlin, Jetpack Compose, and Python. Always eager to learn, collaborate, and innovate!
+Hi, I'm Krishna, final year student at MITS Gwalior. I enjoy turning ideas into reality through code, with a special interest in building impactful Android apps. From real-time bus tracking solutions to consumer service platforms and fun match games, I love solving real-world problems and exploring new technologies like Kotlin, Jetpack Compose, and Python. Always eager to learn, collaborate, and innovate!
 
 ---
 
